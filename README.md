@@ -5,3 +5,9 @@
 <img src="https://github.com/nraml3281/pyGameProject/blob/master/SonicInHell/title%20screen.PNG" width="200"  height="150">
 <img src="https://github.com/nraml3281/pyGameProject/blob/master/SonicInHell/gameplay.PNG" width="200"  height="150">
 <img src="https://github.com/nraml3281/pyGameProject/blob/master/SonicInHell/ending.PNG" width="200"  height="150">
+<H2>Resources<H2>
+<a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame">PyGame Wheel file</a>
+<br>
+<a href="https://www.youtube.com/watch?v=_GikMdhAhv0">Installing Python and PyGame</a>
+<br>
+<a href="http://soundbible.com/">Get your own sounds here</a>
